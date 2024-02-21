@@ -1,0 +1,2 @@
+# Proyecto inical
+- aprendiendo git
